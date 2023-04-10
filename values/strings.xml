@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe_8July2022</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="start">Start</string>
+</resources>
